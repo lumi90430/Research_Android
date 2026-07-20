@@ -79,6 +79,7 @@
 ### :computer: AOSP Video Tutorial
  - [Learn AOSP, Android internals, and automotive systems](https://aospguru.com/)
  - [AOSP Insight](https://aospinsight.com/)
+ - [AOSP Insider](https://aospinsider.com/)
 
 ### :computer: Other Sources
  - [Youtube: Automotive [01] | Android Boot Process A-Z](https://www.youtube.com/watch?v=WKqvvMZO_2E)
