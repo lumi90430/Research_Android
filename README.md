@@ -75,3 +75,10 @@
   - [70. Understanding Neural Networks: From the Perceptron to Modern AI](https://www.linkedin.com/pulse/understanding-neural-networks-from-perceptron-modern-ai-santilli-bs2tf)
   - [71. From Keras to TensorFlow Lite: Optimizing Neural Networks for Real Devices](https://www.linkedin.com/pulse/from-keras-tensorflow-lite-optimizing-neural-networks-santilli-aoygf)
   - [72. AI on Edge: From Pixels to Objects with Convolutional Neural Networks](https://www.linkedin.com/pulse/ai-edge-from-pixels-objects-convolutional-neural-stefano-santilli-5mq4f)
+
+### :computer: AOSP Video Tutorial
+ - [Learn AOSP, Android internals, and automotive systems](https://aospguru.com/)
+
+### :computer: Other Sources
+ - [Youtube: Automotive [01] | Android Boot Process A-Z](https://www.youtube.com/watch?v=WKqvvMZO_2E)
+ - [GitHub: Android Kernel Tutorials](https://github.com/ravindu644/Android-Kernel-Tutorials)
