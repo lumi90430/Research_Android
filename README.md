@@ -7,7 +7,7 @@
   - [03. How can we manage a software that is becoming more and more complex?](https://www.linkedin.com/pulse/how-can-we-manage-software-becoming-more-complex-stefano-santilli)
   - [04. Component Cohesion Principles](https://www.linkedin.com/pulse/component-cohesion-principles-stefano-santilli)
   - [05. Component Coupling](https://www.linkedin.com/pulse/component-coupling-stefano-santilli)
-  - [06. Stability for software components: the Stable Dependency Principle]()https://www.linkedin.com/pulse/stability-software-components-stable-dependency-stefano-santilli
+  - [06. Stability for software components: the Stable Dependency Principle](https://www.linkedin.com/pulse/stability-software-components-stable-dependency-stefano-santilli)
   - [07. The Stable Abstractions Principle](https://www.linkedin.com/pulse/stable-abstractions-principle-stefano-santilli)
   - [08. Design Patterns in action : mix together "Observer","Proxy" and "Facade" and here is a very useful Android API to read/write on Remote Dictionary](https://www.linkedin.com/pulse/design-patterns-action-mix-together-observerproxy-facade-santilli)
   - [09. Creational Design Patterns : "Abstract Factory" the right solution to build your bicycle in garage](https://www.linkedin.com/pulse/creational-design-patterns-abstract-factory-right-build-santilli)
