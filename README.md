@@ -76,7 +76,7 @@
   - [72. AI on Edge: From Pixels to Objects with Convolutional Neural Networks](https://www.linkedin.com/pulse/ai-edge-from-pixels-objects-convolutional-neural-stefano-santilli-5mq4f)
 
 ### :computer: AOSP Video Tutorial
- - [AOSPGURU](https://aospguru.com/)
+ - [AOSP_GURU](https://aospguru.com/)
  - [AOSP Insight](https://aospinsight.com/)
  - [AOSP Insider](https://aospinsider.com/)
 
@@ -89,7 +89,7 @@
  - [Medium: Reverse Engineer Your Favorite Android App on Medium](https://medium.com/helpshift-engineering/reverse-engineer-your-favorite-android-app-863a797042a6)
  - [Medium: Reverse Engineering Obfuscated Android APK on Medium](https://medium.com/rahasak/reverse-engineering-obfuscated-android-apk-67da84b259e4)
  - [YouTube: Android Reverse Engineering](https://www.youtube.com/watch?v=d-v_mha8tPU)
- - [Raging Rock Android App Reverse Engineering](https://www.ragingrock.com/AndroidAppRE)[_Github](https://github.com/maddiestone)
+ - [Raging Rock Android App Reverse Engineering](https://www.ragingrock.com/AndroidAppRE) and [Maddie's Github](https://github.com/maddiestone)
  - [HTTP Toolkit Blog: Android Reverse Engineering](https://httptoolkit.com/blog/android-reverse-engineering)
  - [Burp Suite: Configuring Android Devices](https://portswigger.net/burp/documentation/desktop/mobile/config-android-device)
  - [Manual Deobfuscation in HackTricks](https://book.hacktricks.xyz/mobile-pentesting/android-app-pentesting/manual-deobfuscation)
