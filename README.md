@@ -1,8 +1,7 @@
 ### Hello! :smile:
 
-### [ Here is the Articles that are posted by [Stefano Santilli. ](https://it.linkedin.com/in/stefano-santilli-93009711)]
-
 ### :computer: Titles: 
+  Here is the Articles that are posted by [Stefano Santilli](https://it.linkedin.com/in/stefano-santilli-93009711)
   - [01. A Systematic Approach to managing dependencies between classes](https://www.linkedin.com/pulse/systematic-approach-managing-dependencies-between-classes-santilli)
   - [02. The "Zero Principle" of software design](https://www.linkedin.com/pulse/zero-principle-software-design-stefano-santilli)
   - [03. How can we manage a software that is becoming more and more complex?](https://www.linkedin.com/pulse/how-can-we-manage-software-becoming-more-complex-stefano-santilli)
@@ -77,22 +76,22 @@
   - [72. AI on Edge: From Pixels to Objects with Convolutional Neural Networks](https://www.linkedin.com/pulse/ai-edge-from-pixels-objects-convolutional-neural-stefano-santilli-5mq4f)
 
 ### :computer: AOSP Video Tutorial
- - [Learn AOSP, Android internals, and automotive systems](https://aospguru.com/)
+ - [AOSPGURU](https://aospguru.com/)
  - [AOSP Insight](https://aospinsight.com/)
  - [AOSP Insider](https://aospinsider.com/)
 
 ### :computer: Comprehensive Guide to Android Reverse Engineering Resources
- - [Awesome Android Reverse Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering)
- - [Awesome Android Security](https://github.com/saeidshirazi/awesome-android-security)
- - [Raging Rock Android App Reverse Engineering](https://www.ragingrock.com/AndroidAppRE)
- - [Reverse Engineering an Android App on Medium](https://rene-manqueros.medium.com/reverse-engineering-an-android-app-40996ab29122)
- - [YouTube Tutorial: Android Reverse Engineering](https://www.youtube.com/watch?v=d-v_mha8tPU)
- - [Reverse Engineer Your Favorite Android App on Medium](https://medium.com/helpshift-engineering/reverse-engineer-your-favorite-android-app-863a797042a6)
+ - [Github: Awesome Android Reverse Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering)
+ - [Github: Awesome Android Security](https://github.com/saeidshirazi/awesome-android-security)
+ - [Github: Paranoid Deobfuscator GitHub Repository](https://github.com/giacomoferretti/paranoid-deobfuscator)
+ - [Github: Deoptfuscator GitHub Repository](https://github.com/Gyoonus/deoptfuscator)
+ - [Medium: Reverse Engineering an Android App on Medium](https://rene-manqueros.medium.com/reverse-engineering-an-android-app-40996ab29122)
+ - [Medium: Reverse Engineer Your Favorite Android App on Medium](https://medium.com/helpshift-engineering/reverse-engineer-your-favorite-android-app-863a797042a6)
+ - [Medium: Reverse Engineering Obfuscated Android APK on Medium](https://medium.com/rahasak/reverse-engineering-obfuscated-android-apk-67da84b259e4)
+ - [YouTube: Android Reverse Engineering](https://www.youtube.com/watch?v=d-v_mha8tPU)
+ - [Raging Rock Android App Reverse Engineering](https://www.ragingrock.com/AndroidAppRE)[_Github](https://github.com/maddiestone)
  - [HTTP Toolkit Blog: Android Reverse Engineering](https://httptoolkit.com/blog/android-reverse-engineering)
  - [Burp Suite: Configuring Android Devices](https://portswigger.net/burp/documentation/desktop/mobile/config-android-device)
- - [Deoptfuscator GitHub Repository](https://github.com/Gyoonus/deoptfuscator)
- - [Reverse Engineering Obfuscated Android APK on Medium](https://medium.com/rahasak/reverse-engineering-obfuscated-android-apk-67da84b259e4)
- - [Paranoid Deobfuscator GitHub Repository](https://github.com/giacomoferretti/paranoid-deobfuscator)
  - [Manual Deobfuscation in HackTricks](https://book.hacktricks.xyz/mobile-pentesting/android-app-pentesting/manual-deobfuscation)
 
 ### :computer: Other Sources
