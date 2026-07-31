@@ -81,6 +81,20 @@
  - [AOSP Insight](https://aospinsight.com/)
  - [AOSP Insider](https://aospinsider.com/)
 
+### :computer: Comprehensive Guide to Android Reverse Engineering Resources
+ - [Awesome Android Reverse Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering)
+ - [Awesome Android Security](https://github.com/saeidshirazi/awesome-android-security)
+ - [Raging Rock Android App Reverse Engineering](https://www.ragingrock.com/AndroidAppRE)
+ - [Reverse Engineering an Android App on Medium](https://rene-manqueros.medium.com/reverse-engineering-an-android-app-40996ab29122)
+ - [YouTube Tutorial: Android Reverse Engineering](https://www.youtube.com/watch?v=d-v_mha8tPU)
+ - [Reverse Engineer Your Favorite Android App on Medium](https://medium.com/helpshift-engineering/reverse-engineer-your-favorite-android-app-863a797042a6)
+ - [HTTP Toolkit Blog: Android Reverse Engineering](https://httptoolkit.com/blog/android-reverse-engineering)
+ - [Burp Suite: Configuring Android Devices](https://portswigger.net/burp/documentation/desktop/mobile/config-android-device)
+ - [Deoptfuscator GitHub Repository](https://github.com/Gyoonus/deoptfuscator)
+ - [Reverse Engineering Obfuscated Android APK on Medium](https://medium.com/rahasak/reverse-engineering-obfuscated-android-apk-67da84b259e4)
+ - [Paranoid Deobfuscator GitHub Repository](https://github.com/giacomoferretti/paranoid-deobfuscator)
+ - [Manual Deobfuscation in HackTricks](https://book.hacktricks.xyz/mobile-pentesting/android-app-pentesting/manual-deobfuscation)
+
 ### :computer: Other Sources
  - [Youtube: Automotive [01] | Android Boot Process A-Z](https://www.youtube.com/watch?v=WKqvvMZO_2E)
  - [GitHub: Android Kernel Tutorials](https://github.com/ravindu644/Android-Kernel-Tutorials)
